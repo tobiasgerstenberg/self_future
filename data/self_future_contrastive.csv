@@ -1,0 +1,1542 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,IC_0,IC_1,IC_2,1_Valence-Relig_12,1_Valence-Job_12,2_Valence-Relig_12,2_Valence-Job_12,3_Valence-Relig_12,3_Valence-Job_12,4_Valence-Relig_12,4_Valence-Job_12,1_RValence-Relig_12,1_RValence-Job_12,2_RValence-Relig_12,2_RValence-Job_12,3_RValence-Relig_12,3_RValence-Job_12,4_RValence-Relig_12,4_RValence-Job_12,1_Perspective-Relig_12,1_Perspective-Job_12,2_Perspective-Relig_12,2_Perspective-Job_12,3_Perspective-Relig_12,3_Perspective-Job_12,4_Perspective-Relig_12,4_Perspective-Job_12,1_RPerspective-Relig_12,1_RPerspective-Job_12,2_RPerspective-Relig_12,2_RPerspective-Job_12,3_RPerspective-Relig_12,3_RPerspective-Job_12,4_RPerspective-Relig_12,4_RPerspective-Job_12,1_Intensity-Relig_12,1_Intensity-Job_12,2_Intensity-Relig_12,2_Intensity-Job_12,3_Intensity-Relig_12,3_Intensity-Job_12,4_Intensity-Relig_12,4_Intensity-Job_12,1_RIntensity-Relig_12,1_RIntensity-Job_12,2_RIntensity-Relig_12,2_RIntensity-Job_12,3_RIntensity-Relig_12,3_RIntensity-Job_12,4_RIntensity-Relig_12,4_RIntensity-Job_12,MTurk_ID,email,Gender,Age
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,How many scenarios will you be shown in total?,How many scenarios will you be asked to continue?,How many words will you have to write to continue a scenario?,"Scenario A
+			Scenario B
+		
+	
+	
+		
+			[Field-1]
+			[Field-2]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - It is a new relationship, and you are falling deeply in love with your date Over a glass of wine at dinner, you finally start to talk about the Big Questions. Heart pounding, you ask your date “what do you think?” As you both share, a sense of deep joy fills your heart. The person that you love understands you and your world view. You have the same views, in essence, about God, religion, and science--about everything that matters most to both of you. As you look into each other’s eyes, you realize that you’ve met your soulmate. - Scenario A
+			Scenario B
+		
+	
+	
+		
+			${lm://Field/1}
+			${lm://Field/2}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario X
+			Scenario Y
+		
+	
+	
+		
+			[Field-3]
+			[Field-4]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - It is a new relationship, and you are falling deeply in love with your date Over a glass of wine at dinner, you finally start to talk about the Big Questions. Heart pounding, you ask your date “what do you think?” As you both share, a sense of deep joy fills your heart. The person that you love understands you and your world view. You have the same views, in essence, about God, religion, and science--about everything that matters most to both of you. As you look into each other’s eyes, you realize that you’ve met your soulmate. - Scenario X
+			Scenario Y
+		
+	
+	
+		
+			${lm://Field/3}
+			${lm://Field/4}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario A
+			Scenario B
+		
+	
+	
+		
+			[Field-1]
+			[Field-2]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - You find your date attractive. Over a glass of wine at dinner, you ask “what are your beliefs on God and science?” You both talk a little about your beliefs. Neither of you are especially religious. After chatting for a bit, you realize that neither of you are really interested in these kinds of philosophical questions. You both find them kind of boring. What you are really interested in is the dessert menu, and you spend some time deciding whether to share the chocolate cake or the crème brulee. Now that’s the sort of question that you can get your teeth into. - Scenario A
+			Scenario B
+		
+	
+	
+		
+			${lm://Field/1}
+			${lm://Field/2}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario X
+			Scenario Y
+		
+	
+	
+		
+			[Field-3]
+			[Field-4]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - You find your date attractive. Over a glass of wine at dinner, you ask “what are your beliefs on God and science?” You both talk a little about your beliefs. Neither of you are especially religious. After chatting for a bit, you realize that neither of you are really interested in these kinds of philosophical questions. You both find them kind of boring. What you are really interested in is the dessert menu, and you spend some time deciding whether to share the chocolate cake or the crème brulee. Now that’s the sort of question that you can get your teeth into. - Scenario X
+			Scenario Y
+		
+	
+	
+		
+			${lm://Field/3}
+			${lm://Field/4}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario A
+			Scenario B
+		
+	
+	
+		
+			[Field-1]
+			[Field-2]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - It was a new relationship and they were falling deeply in love with each other. Over a glass of wine one evening, they finally started to talk about the Big Questions. Heart pounding, she asked him about his beliefs. As he talked, a sense of deep joy filled her heart. The person that she loves understood her and her world view. They had the same views, in essence, about God, religion, and science--about everything that matters most to both of them. As they looked into each other’s eyes, they each realized that they’d met their soulmate. - Scenario A
+			Scenario B
+		
+	
+	
+		
+			${lm://Field/1}
+			${lm://Field/2}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario X
+			Scenario Y
+		
+	
+	
+		
+			[Field-3]
+			[Field-4]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - It was a new relationship and they were falling deeply in love with each other. Over a glass of wine one evening, they finally started to talk about the Big Questions. Heart pounding, she asked him about his beliefs. As he talked, a sense of deep joy filled her heart. The person that she loves understood her and her world view. They had the same views, in essence, about God, religion, and science--about everything that matters most to both of them. As they looked into each other’s eyes, they each realized that they’d met their soulmate. - Scenario X
+			Scenario Y
+		
+	
+	
+		
+			${lm://Field/3}
+			${lm://Field/4}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario A
+			Scenario B
+		
+	
+	
+		
+			[Field-1]
+			[Field-2]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - They found each other attractive. Over a glass of wine one evening, she asked him about his beliefs, and they talked a little about God and science. Neither of them was especially religious. After chatting for a bit, he explained that he wasn't really interested in these kinds of philosophical questions. She found them kind of boring as well. What was really interesting was the dessert menu, and they spent some time deciding whether to share the chocolate cake or the crème brulee. - Scenario A
+			Scenario B
+		
+	
+	
+		
+			${lm://Field/1}
+			${lm://Field/2}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario X
+			Scenario Y
+		
+	
+	
+		
+			[Field-3]
+			[Field-4]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - They found each other attractive. Over a glass of wine one evening, she asked him about his beliefs, and they talked a little about God and science. Neither of them was especially religious. After chatting for a bit, he explained that he wasn't really interested in these kinds of philosophical questions. She found them kind of boring as well. What was really interesting was the dessert menu, and they spent some time deciding whether to share the chocolate cake or the crème brulee. - Scenario X
+			Scenario Y
+		
+	
+	
+		
+			${lm://Field/3}
+			${lm://Field/4}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario A
+			Scenario B
+		
+	
+	
+		
+			[Field-2]
+			[Field-1]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - It is a new relationship, and you are falling deeply in love with your date Over a glass of wine at dinner, you finally start to talk about the Big Questions. Heart pounding, you ask your date “what do you think?” As you both share, a sense of deep joy fills your heart. The person that you love understands you and your world view. You have the same views, in essence, about God, religion, and science--about everything that matters most to both of you. As you look into each other’s eyes, you realize that you’ve met your soulmate. - Scenario A
+			Scenario B
+		
+	
+	
+		
+			${lm://Field/2}
+			${lm://Field/1}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario X
+			Scenario Y
+		
+	
+	
+		
+			[Field-4]
+			[Field-3]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - It is a new relationship, and you are falling deeply in love with your date Over a glass of wine at dinner, you finally start to talk about the Big Questions. Heart pounding, you ask your date “what do you think?” As you both share, a sense of deep joy fills your heart. The person that you love understands you and your world view. You have the same views, in essence, about God, religion, and science--about everything that matters most to both of you. As you look into each other’s eyes, you realize that you’ve met your soulmate. - Scenario X
+			Scenario Y
+		
+	
+	
+		
+			${lm://Field/4}
+			${lm://Field/3}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario A
+			Scenario B
+		
+	
+	
+		
+			[Field-2]
+			[Field-1]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - You find your date attractive. Over a glass of wine at dinner, you ask “what are your beliefs on God and science?” You both talk a little about your beliefs. Neither of you are especially religious. After chatting for a bit, you realize that neither of you are really interested in these kinds of philosophical questions. You both find them kind of boring. What you are really interested in is the dessert menu, and you spend some time deciding whether to share the chocolate cake or the crème brulee. Now that’s the sort of question that you can get your teeth into. - Scenario A
+			Scenario B
+		
+	
+	
+		
+			${lm://Field/2}
+			${lm://Field/1}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario X
+			Scenario Y
+		
+	
+	
+		
+			[Field-4]
+			[Field-3]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - You find your date attractive. Over a glass of wine at dinner, you ask “what are your beliefs on God and science?” You both talk a little about your beliefs. Neither of you are especially religious. After chatting for a bit, you realize that neither of you are really interested in these kinds of philosophical questions. You both find them kind of boring. What you are really interested in is the dessert menu, and you spend some time deciding whether to share the chocolate cake or the crème brulee. Now that’s the sort of question that you can get your teeth into. - Scenario X
+			Scenario Y
+		
+	
+	
+		
+			${lm://Field/4}
+			${lm://Field/3}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario A
+			Scenario B
+		
+	
+	
+		
+			[Field-2]
+			[Field-1]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - It was a new relationship and they were falling deeply in love with each other. Over a glass of wine one evening, they finally started to talk about the Big Questions. Heart pounding, she asked him about his beliefs. As he talked, a sense of deep joy filled her heart. The person that she loves understood her and her world view. They had the same views, in essence, about God, religion, and science--about everything that matters most to both of them. As they looked into each other’s eyes, they each realized that they’d met their soulmate. - Scenario A
+			Scenario B
+		
+	
+	
+		
+			${lm://Field/2}
+			${lm://Field/1}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario X
+			Scenario Y
+		
+	
+	
+		
+			[Field-4]
+			[Field-3]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - It was a new relationship and they were falling deeply in love with each other. Over a glass of wine one evening, they finally started to talk about the Big Questions. Heart pounding, she asked him about his beliefs. As he talked, a sense of deep joy filled her heart. The person that she loves understood her and her world view. They had the same views, in essence, about God, religion, and science--about everything that matters most to both of them. As they looked into each other’s eyes, they each realized that they’d met their soulmate. - Scenario X
+			Scenario Y
+		
+	
+	
+		
+			${lm://Field/4}
+			${lm://Field/3}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario A
+			Scenario B
+		
+	
+	
+		
+			[Field-2]
+			[Field-1]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - They found each other attractive. Over a glass of wine one evening, she asked him about his beliefs, and they talked a little about God and science. Neither of them was especially religious. After chatting for a bit, he explained that he wasn't really interested in these kinds of philosophical questions. She found them kind of boring as well. What was really interesting was the dessert menu, and they spent some time deciding whether to share the chocolate cake or the crème brulee. - Scenario A
+			Scenario B
+		
+	
+	
+		
+			${lm://Field/2}
+			${lm://Field/1}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario X
+			Scenario Y
+		
+	
+	
+		
+			[Field-4]
+			[Field-3]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - They found each other attractive. Over a glass of wine one evening, she asked him about his beliefs, and they talked a little about God and science. Neither of them was especially religious. After chatting for a bit, he explained that he wasn't really interested in these kinds of philosophical questions. She found them kind of boring as well. What was really interesting was the dessert menu, and they spent some time deciding whether to share the chocolate cake or the crème brulee. - Scenario X
+			Scenario Y
+		
+	
+	
+		
+			${lm://Field/4}
+			${lm://Field/3}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario A
+			Scenario B
+		
+	
+	
+		
+			[Field-1]
+			[Field-2]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - It is a new relationship, and you are falling deeply in love with your date Over a glass of wine at dinner, you finally start to talk about the Big Questions. Heart pounding, you ask your date “what do you think?” As you both share, a sense of deep joy fills your heart. The person that you love understands you and your world view. You have the same views, in essence, about God, religion, and science--about everything that matters most to both of you. As you look into each other’s eyes, you realize that you’ve met your soulmate. - Scenario A
+			Scenario B
+		
+	
+	
+		
+			${lm://Field/1}
+			${lm://Field/2}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario X
+			Scenario Y
+		
+	
+	
+		
+			[Field-3]
+			[Field-4]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - It is a new relationship, and you are falling deeply in love with your date Over a glass of wine at dinner, you finally start to talk about the Big Questions. Heart pounding, you ask your date “what do you think?” As you both share, a sense of deep joy fills your heart. The person that you love understands you and your world view. You have the same views, in essence, about God, religion, and science--about everything that matters most to both of you. As you look into each other’s eyes, you realize that you’ve met your soulmate. - Scenario X
+			Scenario Y
+		
+	
+	
+		
+			${lm://Field/3}
+			${lm://Field/4}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario A
+			Scenario B
+		
+	
+	
+		
+			[Field-1]
+			[Field-2]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - You find your date attractive. Over a glass of wine at dinner, you ask “what are your beliefs on God and science?” You both talk a little about your beliefs. Neither of you are especially religious. After chatting for a bit, you realize that neither of you are really interested in these kinds of philosophical questions. You both find them kind of boring. What you are really interested in is the dessert menu, and you spend some time deciding whether to share the chocolate cake or the crème brulee. Now that’s the sort of question that you can get your teeth into. - Scenario A
+			Scenario B
+		
+	
+	
+		
+			${lm://Field/1}
+			${lm://Field/2}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario X
+			Scenario Y
+		
+	
+	
+		
+			[Field-3]
+			[Field-4]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - You find your date attractive. Over a glass of wine at dinner, you ask “what are your beliefs on God and science?” You both talk a little about your beliefs. Neither of you are especially religious. After chatting for a bit, you realize that neither of you are really interested in these kinds of philosophical questions. You both find them kind of boring. What you are really interested in is the dessert menu, and you spend some time deciding whether to share the chocolate cake or the crème brulee. Now that’s the sort of question that you can get your teeth into. - Scenario X
+			Scenario Y
+		
+	
+	
+		
+			${lm://Field/3}
+			${lm://Field/4}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario A
+			Scenario B
+		
+	
+	
+		
+			[Field-1]
+			[Field-2]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - It is a new relationship, and you are falling deeply in love with your date Over a glass of wine at dinner, you finally start to talk about the Big Questions. Heart pounding, you ask your date “what do you think?” Your date starts to talk about God, religion, and science. Aghast, you realize that the person you love differs, fundamentally, on everything that matters most. As you stare ahead, listening, you realize that there is no way for the two of you to go on together. You see your partner’s heart break, realizing this too. Your heart breaks as you imagine a future alone. - Scenario A
+			Scenario B
+		
+	
+	
+		
+			${lm://Field/1}
+			${lm://Field/2}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario X
+			Scenario Y
+		
+	
+	
+		
+			[Field-3]
+			[Field-4]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - It is a new relationship, and you are falling deeply in love with your date Over a glass of wine at dinner, you finally start to talk about the Big Questions. Heart pounding, you ask your date “what do you think?” Your date starts to talk about God, religion, and science. Aghast, you realize that the person you love differs, fundamentally, on everything that matters most. As you stare ahead, listening, you realize that there is no way for the two of you to go on together. You see your partner’s heart break, realizing this too. Your heart breaks as you imagine a future alone. - Scenario X
+			Scenario Y
+		
+	
+	
+		
+			${lm://Field/3}
+			${lm://Field/4}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario A
+			Scenario B
+		
+	
+	
+		
+			[Field-1]
+			[Field-2]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - You find your date not so attractive. Over a glass of wine at dinner, you ask “what are your beliefs on God and science?” It turns out that your date has different beliefs than you, and thinks people who disagree are confused. You defend your view through the main course. As the meal goes on, you get more annoyed by the way your date dismisses your perspective on God and religion. When the waiter brings the bill, you both get distracted and spend some time debating how to split the cost. - Scenario A
+			Scenario B
+		
+	
+	
+		
+			${lm://Field/1}
+			${lm://Field/2}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario X
+			Scenario Y
+		
+	
+	
+		
+			[Field-3]
+			[Field-4]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - You find your date not so attractive. Over a glass of wine at dinner, you ask “what are your beliefs on God and science?” It turns out that your date has different beliefs than you, and thinks people who disagree are confused. You defend your view through the main course. As the meal goes on, you get more annoyed by the way your date dismisses your perspective on God and religion. When the waiter brings the bill, you both get distracted and spend some time debating how to split the cost. - Scenario X
+			Scenario Y
+		
+	
+	
+		
+			${lm://Field/3}
+			${lm://Field/4}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario A
+			Scenario B
+		
+	
+	
+		
+			[Field-2]
+			[Field-1]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - It is a new relationship, and you are falling deeply in love with your date Over a glass of wine at dinner, you finally start to talk about the Big Questions. Heart pounding, you ask your date “what do you think?” As you both share, a sense of deep joy fills your heart. The person that you love understands you and your world view. You have the same views, in essence, about God, religion, and science--about everything that matters most to both of you. As you look into each other’s eyes, you realize that you’ve met your soulmate. - Scenario A
+			Scenario B
+		
+	
+	
+		
+			${lm://Field/2}
+			${lm://Field/1}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario X
+			Scenario Y
+		
+	
+	
+		
+			[Field-4]
+			[Field-3]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - It is a new relationship, and you are falling deeply in love with your date Over a glass of wine at dinner, you finally start to talk about the Big Questions. Heart pounding, you ask your date “what do you think?” As you both share, a sense of deep joy fills your heart. The person that you love understands you and your world view. You have the same views, in essence, about God, religion, and science--about everything that matters most to both of you. As you look into each other’s eyes, you realize that you’ve met your soulmate. - Scenario X
+			Scenario Y
+		
+	
+	
+		
+			${lm://Field/4}
+			${lm://Field/3}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario A
+			Scenario B
+		
+	
+	
+		
+			[Field-2]
+			[Field-1]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - You find your date attractive. Over a glass of wine at dinner, you ask “what are your beliefs on God and science?” You both talk a little about your beliefs. Neither of you are especially religious. After chatting for a bit, you realize that neither of you are really interested in these kinds of philosophical questions. You both find them kind of boring. What you are really interested in is the dessert menu, and you spend some time deciding whether to share the chocolate cake or the crème brulee. Now that’s the sort of question that you can get your teeth into. - Scenario A
+			Scenario B
+		
+	
+	
+		
+			${lm://Field/2}
+			${lm://Field/1}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario X
+			Scenario Y
+		
+	
+	
+		
+			[Field-4]
+			[Field-3]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - You find your date attractive. Over a glass of wine at dinner, you ask “what are your beliefs on God and science?” You both talk a little about your beliefs. Neither of you are especially religious. After chatting for a bit, you realize that neither of you are really interested in these kinds of philosophical questions. You both find them kind of boring. What you are really interested in is the dessert menu, and you spend some time deciding whether to share the chocolate cake or the crème brulee. Now that’s the sort of question that you can get your teeth into. - Scenario X
+			Scenario Y
+		
+	
+	
+		
+			${lm://Field/4}
+			${lm://Field/3}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario A
+			Scenario B
+		
+	
+	
+		
+			[Field-2]
+			[Field-1]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - It is a new relationship, and you are falling deeply in love with your date Over a glass of wine at dinner, you finally start to talk about the Big Questions. Heart pounding, you ask your date “what do you think?” Your date starts to talk about God, religion, and science. Aghast, you realize that the person you love differs, fundamentally, on everything that matters most. As you stare ahead, listening, you realize that there is no way for the two of you to go on together. You see your partner’s heart break, realizing this too. Your heart breaks as you imagine a future alone. - Scenario A
+			Scenario B
+		
+	
+	
+		
+			${lm://Field/2}
+			${lm://Field/1}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario X
+			Scenario Y
+		
+	
+	
+		
+			[Field-4]
+			[Field-3]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - It is a new relationship, and you are falling deeply in love with your date Over a glass of wine at dinner, you finally start to talk about the Big Questions. Heart pounding, you ask your date “what do you think?” Your date starts to talk about God, religion, and science. Aghast, you realize that the person you love differs, fundamentally, on everything that matters most. As you stare ahead, listening, you realize that there is no way for the two of you to go on together. You see your partner’s heart break, realizing this too. Your heart breaks as you imagine a future alone. - Scenario X
+			Scenario Y
+		
+	
+	
+		
+			${lm://Field/4}
+			${lm://Field/3}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario A
+			Scenario B
+		
+	
+	
+		
+			[Field-2]
+			[Field-1]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - You find your date not so attractive. Over a glass of wine at dinner, you ask “what are your beliefs on God and science?” It turns out that your date has different beliefs than you, and thinks people who disagree are confused. You defend your view through the main course. As the meal goes on, you get more annoyed by the way your date dismisses your perspective on God and religion. When the waiter brings the bill, you both get distracted and spend some time debating how to split the cost. - Scenario A
+			Scenario B
+		
+	
+	
+		
+			${lm://Field/2}
+			${lm://Field/1}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario X
+			Scenario Y
+		
+	
+	
+		
+			[Field-4]
+			[Field-3]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - You find your date not so attractive. Over a glass of wine at dinner, you ask “what are your beliefs on God and science?” It turns out that your date has different beliefs than you, and thinks people who disagree are confused. You defend your view through the main course. As the meal goes on, you get more annoyed by the way your date dismisses your perspective on God and religion. When the waiter brings the bill, you both get distracted and spend some time debating how to split the cost. - Scenario X
+			Scenario Y
+		
+	
+	
+		
+			${lm://Field/4}
+			${lm://Field/3}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario A
+			Scenario B
+		
+	
+	
+		
+			[Field-1]
+			[Field-2]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - It is a new relationship, and you are falling deeply in love with your date Over a glass of wine at dinner, you finally start to talk about the Big Questions. Heart pounding, you ask your date “what do you think?” As you both share, a sense of deep joy fills your heart. The person that you love understands you and your world view. You have the same views, in essence, about God, religion, and science--about everything that matters most to both of you. As you look into each other’s eyes, you realize that you’ve met your soulmate. - Scenario A
+			Scenario B
+		
+	
+	
+		
+			${lm://Field/1}
+			${lm://Field/2}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario X
+			Scenario Y
+		
+	
+	
+		
+			[Field-3]
+			[Field-4]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - It is a new relationship, and you are falling deeply in love with your date Over a glass of wine at dinner, you finally start to talk about the Big Questions. Heart pounding, you ask your date “what do you think?” As you both share, a sense of deep joy fills your heart. The person that you love understands you and your world view. You have the same views, in essence, about God, religion, and science--about everything that matters most to both of you. As you look into each other’s eyes, you realize that you’ve met your soulmate. - Scenario X
+			Scenario Y
+		
+	
+	
+		
+			${lm://Field/3}
+			${lm://Field/4}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario A
+			Scenario B
+		
+	
+	
+		
+			[Field-1]
+			[Field-2]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - It is a new relationship, and you are falling deeply in love with your date Over a glass of wine at dinner, you finally start to talk about the Big Questions. Heart pounding, you ask your date “what do you think?” Your date starts to talk about God, religion, and science. Aghast, you realize that the person you love differs, fundamentally, on everything that matters most. As you stare ahead, listening, you realize that there is no way for the two of you to go on together. You see your partner’s heart break, realizing this too. Your heart breaks as you imagine a future alone. - Scenario A
+			Scenario B
+		
+	
+	
+		
+			${lm://Field/1}
+			${lm://Field/2}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario X
+			Scenario Y
+		
+	
+	
+		
+			[Field-3]
+			[Field-4]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - It is a new relationship, and you are falling deeply in love with your date Over a glass of wine at dinner, you finally start to talk about the Big Questions. Heart pounding, you ask your date “what do you think?” Your date starts to talk about God, religion, and science. Aghast, you realize that the person you love differs, fundamentally, on everything that matters most. As you stare ahead, listening, you realize that there is no way for the two of you to go on together. You see your partner’s heart break, realizing this too. Your heart breaks as you imagine a future alone. - Scenario X
+			Scenario Y
+		
+	
+	
+		
+			${lm://Field/3}
+			${lm://Field/4}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario A
+			Scenario B
+		
+	
+	
+		
+			[Field-1]
+			[Field-2]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - It was a new relationship and they were falling deeply in love with each other. Over a glass of wine one evening, they finally started to talk about the Big Questions. Heart pounding, she asked him about his beliefs. As he talked, a sense of deep joy filled her heart. The person that she loves understood her and her world view. They had the same views, in essence, about God, religion, and science--about everything that matters most to both of them. As they looked into each other’s eyes, they each realized that they’d met their soulmate. - Scenario A
+			Scenario B
+		
+	
+	
+		
+			${lm://Field/1}
+			${lm://Field/2}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario X
+			Scenario Y
+		
+	
+	
+		
+			[Field-3]
+			[Field-4]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - It was a new relationship and they were falling deeply in love with each other. Over a glass of wine one evening, they finally started to talk about the Big Questions. Heart pounding, she asked him about his beliefs. As he talked, a sense of deep joy filled her heart. The person that she loves understood her and her world view. They had the same views, in essence, about God, religion, and science--about everything that matters most to both of them. As they looked into each other’s eyes, they each realized that they’d met their soulmate. - Scenario X
+			Scenario Y
+		
+	
+	
+		
+			${lm://Field/3}
+			${lm://Field/4}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario A
+			Scenario B
+		
+	
+	
+		
+			[Field-1]
+			[Field-2]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - It was a new relationship and they were falling deeply in love with each other. Over a glass of wine one evening, they finally started to talk about the Big Questions. Heart pounding, she asked him about his beliefs. He started to talk about God, and religion, and science. Aghast, she realized that they fundamentally differ about everything that matters most. As she stared at him, listening to him talk, she realized that there was no way for them to go on. His heart broke as he realized this too. Her heart broke as she imagined her future without him. - Scenario A
+			Scenario B
+		
+	
+	
+		
+			${lm://Field/1}
+			${lm://Field/2}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario X
+			Scenario Y
+		
+	
+	
+		
+			[Field-3]
+			[Field-4]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - It was a new relationship and they were falling deeply in love with each other. Over a glass of wine one evening, they finally started to talk about the Big Questions. Heart pounding, she asked him about his beliefs. He started to talk about God, and religion, and science. Aghast, she realized that they fundamentally differ about everything that matters most. As she stared at him, listening to him talk, she realized that there was no way for them to go on. His heart broke as he realized this too. Her heart broke as she imagined her future without him. - Scenario X
+			Scenario Y
+		
+	
+	
+		
+			${lm://Field/3}
+			${lm://Field/4}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario A
+			Scenario B
+		
+	
+	
+		
+			[Field-2]
+			[Field-1]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - It is a new relationship, and you are falling deeply in love with your date Over a glass of wine at dinner, you finally start to talk about the Big Questions. Heart pounding, you ask your date “what do you think?” As you both share, a sense of deep joy fills your heart. The person that you love understands you and your world view. You have the same views, in essence, about God, religion, and science--about everything that matters most to both of you. As you look into each other’s eyes, you realize that you’ve met your soulmate. - Scenario A
+			Scenario B
+		
+	
+	
+		
+			${lm://Field/2}
+			${lm://Field/1}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario X
+			Scenario Y
+		
+	
+	
+		
+			[Field-4]
+			[Field-3]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - It is a new relationship, and you are falling deeply in love with your date Over a glass of wine at dinner, you finally start to talk about the Big Questions. Heart pounding, you ask your date “what do you think?” As you both share, a sense of deep joy fills your heart. The person that you love understands you and your world view. You have the same views, in essence, about God, religion, and science--about everything that matters most to both of you. As you look into each other’s eyes, you realize that you’ve met your soulmate. - Scenario X
+			Scenario Y
+		
+	
+	
+		
+			${lm://Field/4}
+			${lm://Field/3}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario A
+			Scenario B
+		
+	
+	
+		
+			[Field-2]
+			[Field-1]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - It is a new relationship, and you are falling deeply in love with your date Over a glass of wine at dinner, you finally start to talk about the Big Questions. Heart pounding, you ask your date “what do you think?” Your date starts to talk about God, religion, and science. Aghast, you realize that the person you love differs, fundamentally, on everything that matters most. As you stare ahead, listening, you realize that there is no way for the two of you to go on together. You see your partner’s heart break, realizing this too. Your heart breaks as you imagine a future alone. - Scenario A
+			Scenario B
+		
+	
+	
+		
+			${lm://Field/2}
+			${lm://Field/1}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario X
+			Scenario Y
+		
+	
+	
+		
+			[Field-4]
+			[Field-3]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - It is a new relationship, and you are falling deeply in love with your date Over a glass of wine at dinner, you finally start to talk about the Big Questions. Heart pounding, you ask your date “what do you think?” Your date starts to talk about God, religion, and science. Aghast, you realize that the person you love differs, fundamentally, on everything that matters most. As you stare ahead, listening, you realize that there is no way for the two of you to go on together. You see your partner’s heart break, realizing this too. Your heart breaks as you imagine a future alone. - Scenario X
+			Scenario Y
+		
+	
+	
+		
+			${lm://Field/4}
+			${lm://Field/3}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario A
+			Scenario B
+		
+	
+	
+		
+			[Field-2]
+			[Field-1]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - It was a new relationship and they were falling deeply in love with each other. Over a glass of wine one evening, they finally started to talk about the Big Questions. Heart pounding, she asked him about his beliefs. As he talked, a sense of deep joy filled her heart. The person that she loves understood her and her world view. They had the same views, in essence, about God, religion, and science--about everything that matters most to both of them. As they looked into each other’s eyes, they each realized that they’d met their soulmate. - Scenario A
+			Scenario B
+		
+	
+	
+		
+			${lm://Field/2}
+			${lm://Field/1}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario X
+			Scenario Y
+		
+	
+	
+		
+			[Field-4]
+			[Field-3]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - It was a new relationship and they were falling deeply in love with each other. Over a glass of wine one evening, they finally started to talk about the Big Questions. Heart pounding, she asked him about his beliefs. As he talked, a sense of deep joy filled her heart. The person that she loves understood her and her world view. They had the same views, in essence, about God, religion, and science--about everything that matters most to both of them. As they looked into each other’s eyes, they each realized that they’d met their soulmate. - Scenario X
+			Scenario Y
+		
+	
+	
+		
+			${lm://Field/4}
+			${lm://Field/3}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario A
+			Scenario B
+		
+	
+	
+		
+			[Field-2]
+			[Field-1]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - It was a new relationship and they were falling deeply in love with each other. Over a glass of wine one evening, they finally started to talk about the Big Questions. Heart pounding, she asked him about his beliefs. He started to talk about God, and religion, and science. Aghast, she realized that they fundamentally differ about everything that matters most. As she stared at him, listening to him talk, she realized that there was no way for them to go on. His heart broke as he realized this too. Her heart broke as she imagined her future without him. - Scenario A
+			Scenario B
+		
+	
+	
+		
+			${lm://Field/2}
+			${lm://Field/1}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?","Scenario X
+			Scenario Y
+		
+	
+	
+		
+			[Field-4]
+			[Field-3]
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue? - It was a new relationship and they were falling deeply in love with each other. Over a glass of wine one evening, they finally started to talk about the Big Questions. Heart pounding, she asked him about his beliefs. He started to talk about God, and religion, and science. Aghast, she realized that they fundamentally differ about everything that matters most. As she stared at him, listening to him talk, she realized that there was no way for them to go on. His heart broke as he realized this too. Her heart broke as she imagined her future without him. - Scenario X
+			Scenario Y
+		
+	
+	
+		
+			${lm://Field/4}
+			${lm://Field/3}
+		
+	
+
+
+ 
+
+ 
+
+ Which scenario would you prefer to continue?",Please enter your Mechanical Turk Worker ID.,"Sometimes we contact participants about completing related studies in the future. If you are interested in participating in future studies like this one, please enter your email address below.",What is your gender?,What is your age?
+"{""ImportId"":""startDate"",""timeZone"":""America/New_York""}","{""ImportId"":""endDate"",""timeZone"":""America/New_York""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/New_York""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID300""}","{""ImportId"":""QID276""}","{""ImportId"":""QID277""}","{""ImportId"":""1_QID391_12""}","{""ImportId"":""1_QID400_12""}","{""ImportId"":""2_QID391_12""}","{""ImportId"":""2_QID400_12""}","{""ImportId"":""3_QID391_12""}","{""ImportId"":""3_QID400_12""}","{""ImportId"":""4_QID391_12""}","{""ImportId"":""4_QID400_12""}","{""ImportId"":""1_QID402_12""}","{""ImportId"":""1_QID403_12""}","{""ImportId"":""2_QID402_12""}","{""ImportId"":""2_QID403_12""}","{""ImportId"":""3_QID402_12""}","{""ImportId"":""3_QID403_12""}","{""ImportId"":""4_QID402_12""}","{""ImportId"":""4_QID403_12""}","{""ImportId"":""1_QID393_12""}","{""ImportId"":""1_QID399_12""}","{""ImportId"":""2_QID393_12""}","{""ImportId"":""2_QID399_12""}","{""ImportId"":""3_QID393_12""}","{""ImportId"":""3_QID399_12""}","{""ImportId"":""4_QID393_12""}","{""ImportId"":""4_QID399_12""}","{""ImportId"":""1_QID404_12""}","{""ImportId"":""1_QID405_12""}","{""ImportId"":""2_QID404_12""}","{""ImportId"":""2_QID405_12""}","{""ImportId"":""3_QID404_12""}","{""ImportId"":""3_QID405_12""}","{""ImportId"":""4_QID404_12""}","{""ImportId"":""4_QID405_12""}","{""ImportId"":""1_QID395_12""}","{""ImportId"":""1_QID401_12""}","{""ImportId"":""2_QID395_12""}","{""ImportId"":""2_QID401_12""}","{""ImportId"":""3_QID395_12""}","{""ImportId"":""3_QID401_12""}","{""ImportId"":""4_QID395_12""}","{""ImportId"":""4_QID401_12""}","{""ImportId"":""1_QID406_12""}","{""ImportId"":""1_QID407_12""}","{""ImportId"":""2_QID406_12""}","{""ImportId"":""2_QID407_12""}","{""ImportId"":""3_QID406_12""}","{""ImportId"":""3_QID407_12""}","{""ImportId"":""4_QID406_12""}","{""ImportId"":""4_QID407_12""}","{""ImportId"":""QID92_TEXT""}","{""ImportId"":""QID213_TEXT""}","{""ImportId"":""QID94""}","{""ImportId"":""QID95_TEXT""}"
+2/21/18 19:02,2/21/18 19:02,0,*******,100,34,1,2/21/18 19:02,R_3ExRGAiizTPXYpO,*******,*******,*******,*******,*******,*******,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,93,100,,,,,,,,,,
+2/21/18 19:02,2/21/18 19:03,0,*******,100,22,1,2/21/18 19:03,R_2uODxyelg7dkmgC,*******,*******,*******,*******,*******,*******,anonymous,EN,1,1,1,,,,,,,,,,,11,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2/21/18 19:03,2/21/18 19:03,0,*******,100,19,1,2/21/18 19:03,R_2E3PxK8COdVaE2Z,*******,*******,*******,*******,*******,*******,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,66,62,,,,,,,,,,,,,,,,,,,,,,
